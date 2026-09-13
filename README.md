@@ -48,3 +48,24 @@ Example study plan checklist
 
 ## Future
 Solution explanations, video walkthroughs, mock interview scripts
+
+## Overview
+Complete CS interview preparation kit covering all major topics
+
+## Features
+DSA problems, system design, behavioral questions, OOP, OS, networking, database, company-specific guides
+
+## Tech Stack
+Markdown, Python/C++ code examples
+
+## Installation
+Fork this repo and check off completed topics
+
+## Project Structure
+algorithms/, data-structures/, system-design/, behavioral/, oop/, os/, networking/, databases/, company-specific/, study-plans/
+
+## Screenshots
+Example study plan checklist
+
+## Future
+Solution explanations, video walkthroughs, mock interview scripts
